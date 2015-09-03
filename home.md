@@ -1,4 +1,4 @@
-<<Global-Toc()>>
+<<GlobalTOC()>>
 
 # Table of Contents #
 
