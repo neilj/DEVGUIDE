@@ -1,8 +1,7 @@
 
+<!-- --- title: page 4 title -->
+
 This is page #4
 
-<<Series('page')>>
-
---
 
 <<Series(page)>>
