@@ -1,3 +1,5 @@
+<<Global-Toc()>>
+
 # Table of Contents #
 
 1. iCalendar Topics
